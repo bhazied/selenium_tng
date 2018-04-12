@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Enda-oddo-testDrive by packages]">
+  <test name="samplePackage.user(failed)">
+    <classes>
+      <class name="samplePackage.user.login">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- samplePackage.user.login -->
+      <class name="samplePackage.user.Selector">
+        <methods>
+          <include name="main"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- samplePackage.user.Selector -->
+    </classes>
+  </test> <!-- samplePackage.user(failed) -->
+</suite> <!-- Failed suite [Enda-oddo-testDrive by packages] -->

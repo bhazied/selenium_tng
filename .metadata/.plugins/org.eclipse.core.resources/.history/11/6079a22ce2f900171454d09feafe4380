@@ -1,0 +1,43 @@
+package samplePackage.Dashboard;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeMethod;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterMethod;
+
+public class Discussion {
+	
+	private WebDriver driver;
+	
+	private WebDriverWait wait;
+	
+	
+  @Test
+  public void discussion() {
+	  By mainContainer = By.cssSelector("o_main");
+	  wait = new WebDriverWait(driver, samplePackage.Setting.Constante.TIME_OUT_WAITING)
+	  
+  }
+  @BeforeMethod
+  public void beforeMethod() {
+	  System.setProperty("webdriver.gecko.driver","C:\\Users\\uid0918\\Desktop\\selenium need\\geckodriver.exe");
+	  driver = new FirefoxDriver();
+	  driver.manage().deleteAllCookies();
+	  driver.manage().timeouts().implicitlyWait(samplePackage.Setting.Constante.TIME_OUT_WAITING, TimeUnit.SECONDS);
+	  driver.manage().window().maximize();
+	  driver.get(samplePackage.Setting.Constante.DISCUSSION_URL); 
+  }
+
+  @AfterMethod
+  public void afterMethod() {
+	  driver.quit();
+  }
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium-java-3.8.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/ws-commons-util-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/xmlrpc-client-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/xmlrpc-common-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-java-api-1.9.2-0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/xmlrpc-client-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/xmlrpc-client-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/xmlrpc-common-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/lib/xmlrpc-common-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/uid0918/Desktop/selenium need/testLink lib/testlink-api-client-20091130/testlink-api-client-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

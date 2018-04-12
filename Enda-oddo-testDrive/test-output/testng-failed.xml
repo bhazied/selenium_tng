@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]">
+  <test thread-count="5" name="User entry(failed)">
+    <classes>
+      <class name="samplePackage.user.login">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- samplePackage.user.login -->
+    </classes>
+  </test> <!-- User entry(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
